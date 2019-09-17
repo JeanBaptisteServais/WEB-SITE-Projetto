@@ -7,4 +7,4 @@ A Website
 
 
 
-alertative ORM
+database system = an alternative to ORM
