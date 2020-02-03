@@ -1,4 +1,4 @@
-# Projetto documentation in progress, code review in course
+# Projetto
 
 A Website
 
@@ -7,4 +7,4 @@ A Website
 
 
 
-database system = an alternative to ORM
+
